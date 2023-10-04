@@ -1,5 +1,5 @@
 ### Introduction
-Hello! You may know me from projects such as <br>Project Rain</br> 
+Hello! You may know me from projects such as <b>Project Rain</b> 
 a script hub primary for the game Deepwoken. 
 You may also know me from the Deepwoken exploiting community, as I am very active in deepwoken exploiting servers.
 Feel free to reach out to me! My Discord handle is: @aureliustics_
@@ -8,21 +8,21 @@ Feel free to reach out to me! My Discord handle is: @aureliustics_
 
 ### Programming Languages
 <ul>
-  <br>C++:</br> I am currently learning C++ and have been enjoying every bit of it so far. Currently my favourite programming language to learn and use.
+  <b>C++:</b> I am currently learning C++ and have been enjoying every bit of it so far. Currently my favourite programming language to learn and use.
 </ul>
 <ul>
-<br>Javascript:</br> I have been learning Javascript for a little bit over a year and have used it for web development and a little bit of game development aswell.
+<b>Javascript:</b> I have been learning Javascript for a little bit over a year and have used it for web development and a little bit of game development aswell.
 </ul>
 <ul>
-<br>Python:</br> Experimented with Python for only about a month and it was pretty fun.
+<b>Python:</b> Experimented with Python for only about a month and it was pretty fun.
 </ul>
 <ul>
-<br>LuaU:</br> Been exploiting on Roblox for over 6 years and I have always been fascinated with Roblox scripts. LuaU was one of the primary things that sparked with interest with programming and reverse engineering.
+<b>LuaU:</b> Been exploiting on Roblox for over 6 years and I have always been fascinated with Roblox scripts. LuaU was one of the primary things that sparked with interest with programming and reverse engineering.
 </ul>
 <hr>
 
 ### Projects
-<br>Project Rain Discord Server:</br>
+<b>Project Rain Discord Server:</b>
 <a href=“https://discord.com/invite/5BrG3h4zEE”>
 
 
