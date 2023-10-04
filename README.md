@@ -23,8 +23,7 @@ Feel free to reach out to me! My Discord handle is: @aureliustics_
 <hr>
 
 ### Projects
-<b>Project Rain Discord Server:</b>
-<a href=“https://discord.com/invite/5BrG3h4zEE”>
+<b>Project Rain Discord Server:</b> <a href=“https://discord.com/invite/5BrG3h4zEE”>
 
 
 <!--
