@@ -23,8 +23,8 @@ Feel free to reach out to me! My Discord handle is: @aureliustics_
 <hr>
 
 ### Projects
-<b>Project Rain Discord Server:</b> https://discord.com/invite/5BrG3h4zEE <br>
-<b>Deepwoken Server Sniper: </b> https://github.com/Aureliustics/DeepwokenServerSniper
+- <b>Project Rain Discord Server:</b> https://discord.com/invite/5BrG3h4zEE <br>
+- <b>Deepwoken Server Sniper: </b> https://github.com/Aureliustics/DeepwokenServerSniper
 
 
 <!--
