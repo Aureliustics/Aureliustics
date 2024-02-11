@@ -1,6 +1,6 @@
 ### Introduction
 <ul>
-Hello! You may know me from projects such as <b>Project Rain</b> 
+Hello! You may know me from projects such as <b><a href="https://discord.gg/5BrG3h4zEE"></a></b> 
 a Roblox script hub primary for the game Deepwoken. 
 You may also know me from the Deepwoken exploiting community, as I am very active in Deepwoken related exploiting servers.
 Feel free to reach out to me! My Discord handle is: @aureliustics
