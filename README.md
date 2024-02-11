@@ -12,7 +12,7 @@ Feel free to reach out to me! My Discord handle is: <a href="https://discord.com
 
 ### Projects
 - <b><a href="https://discord.com/invite/5BrG3h4zEE" target="_blank">Project Rain Discord Server</a></b> <br>
-- <b><a href="https://github.com/Aureliustics/DeepwokenServerSniper" target="_blank"> </a> </b>
+- <b><a href="https://github.com/Aureliustics/DeepwokenServerSniper" target="_blank">Deepwoken Server Sniper</a> </b>
 
 <div class="pr">
 <a href="https://discord.gg/5BrG3h4zEE" target="_blank">
