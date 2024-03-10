@@ -1,6 +1,6 @@
 ### Introduction
 <ul>
-Hello! You may know me from projects such as Project Rain</b> 
+Hello! You may know me from projects such as <a href="https://youtu.be/nGKM6bygc6o?t=3" target="_blank">Project Rain</a></b>
 a Roblox script hub primary for the game <a href="https://www.roblox.com/games/4111023553/Deepwoken" target="_blank">Deepwoken</a>. 
 You may also know me from the Deepwoken exploiting community, as I am very active in Deepwoken related exploiting servers. I have an interest in programming, cheat development, and I've been exploring reverse engineering.
 Feel free to reach out to me! My Discord handle is: <a href="https://discord.com/users/976986147580428329">@aureliustics</a> <br> <br>
