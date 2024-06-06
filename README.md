@@ -16,6 +16,6 @@ Feel free to reach out to me! My Discord handle is: <a href="https://discord.com
 
 <div class="pr">
 <a href="https://discord.gg/5BrG3h4zEE" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/1150272768919748728/1216257099101900850/pr.png?ex=65ffbab1&is=65ed45b1&hm=1464a72cee62e7ce31ae738614c9cba8909a5f7725a1c19d20e87f30715833bf&" title="Project Rain Invite" height="150">
+  <img src="https://cdn.discordapp.com/attachments/1150479462119522478/1248357761394147378/PRLOGO.png?ex=66635f43&is=66620dc3&hm=76fb8f20edcf1dbd255d37b28545d127edb40ba85bf80411e7408fcaa50240ac&" title="Project Rain Invite" height="150">
 </a>
 </div>
