@@ -16,5 +16,4 @@ Feel free to reach out to me! My Discord handle is: <a href="https://discord.com
   <li><b><a href="https://github.com/Aureliustics/DeepwokenServerSniper" target="_blank">Deepwoken Server Sniper</a></b></li>
   <li><b><a href="https://github.com/Aureliustics/JPP-Programming-Language" target="_blank">J++ Programming Language</a></b></li>
   <li><b><a href="https://github.com/Aureliustics/CodeHS-Automation" target="_blank">CodeHS Automation</a></b></li>
-<li><b><a href="https://github.com/Aureliustics/JPP-Programming-Language" target="_blank">J++ Programming Language</a></b></li>
 </ul>
