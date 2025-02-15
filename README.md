@@ -1,4 +1,4 @@
-### Introduction
+<h1> Introduction </h1>
 <ul>
 Hello! You may know me from projects such as <a href="https://youtu.be/nGKM6bygc6o?t=3" target="_blank">Project Rain</a></b>
 a Roblox script hub primarily for the game <a href="https://www.roblox.com/games/4111023553/Deepwoken" target="_blank">Deepwoken</a>. 
@@ -10,12 +10,11 @@ Feel free to reach out to me! My Discord handle is: <a href="https://discord.com
 </ul>
 <hr>
 
-### Projects
-- <b><a href="https://discord.com/invite/5BrG3h4zEE" target="_blank">Project Rain Discord Server</a></b> <br>
-- <b><a href="https://github.com/Aureliustics/DeepwokenServerSniper" target="_blank">Deepwoken Server Sniper</a> </b>
-
-<div class="pr">
-<a href="https://discord.gg/5BrG3h4zEE" target="_blank">
-  <img src="https://cdn.discordapp.com/attachments/1150479462119522478/1248357761394147378/PRLOGO.png?ex=66635f43&is=66620dc3&hm=76fb8f20edcf1dbd255d37b28545d127edb40ba85bf80411e7408fcaa50240ac&" title="Project Rain Invite" height="150">
-</a>
-</div>
+<h1> Projects </h1>
+<ul>
+  <li><b><a href="https://github.com/Aureliustics/Python-Turtle-3D-Renderer" target="_blank">Python Turtle 3D Renderer</a></b></li>
+  <li><b><a href="https://github.com/Aureliustics/DeepwokenServerSniper" target="_blank">Deepwoken Server Sniper</a></b></li>
+  <li><b><a href="https://github.com/Aureliustics/JPP-Programming-Language" target="_blank">J++ Programming Language</a></b></li>
+  <li><b><a href="https://github.com/Aureliustics/CodeHS-Automation" target="_blank">CodeHS Automation</a></b></li>
+<li><b><a href="https://github.com/Aureliustics/JPP-Programming-Language" target="_blank">J++ Programming Language</a></b></li>
+</ul>
