@@ -3,6 +3,7 @@
 Hello, I'm <b>Aurelius</b> - an aspiring programmer and reverse engineer with a deep passion for <b>computer science</b> and <b>cybersecurity</b>.
 You may know me from projects such as <b><a href="https://youtu.be/nGKM6bygc6o?t=3" target="_blank">Project Rain</a></b>
 a Roblox script hub primarily for the game <a href="https://www.roblox.com/games/4111023553/Deepwoken" target="_blank">Deepwoken</a>. 
+<hr>
 <h1>Main Interests</h1>
 <ul>
     <li><b>Software Development</b></li>
@@ -10,7 +11,6 @@ a Roblox script hub primarily for the game <a href="https://www.roblox.com/games
     <li><b>General Cybersecurity</b></li>
     <li><b>Cheat Software</b></li>
 </ul>
-<hr>
 
 <h1> Projects</h1>
 <ul>
