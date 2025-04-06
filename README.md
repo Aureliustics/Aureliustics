@@ -3,7 +3,7 @@
 Hello, I'm <b>Aurelius</b> - an aspiring programmer and reverse engineer with a deep passion for <b>computer science</b> and <b>cybersecurity</b>.
 You may know me from projects such as <b><a href="https://youtu.be/nGKM6bygc6o?t=3" target="_blank">Project Rain</a></b>
 a Roblox script hub primarily for the game <a href="https://www.roblox.com/games/4111023553/Deepwoken" target="_blank">Deepwoken</a>. 
-<h1>>My main interests include:</h1>
+<h1>Main Interests</h1>
 <ul>
     <li><b>Software Development</b></li>
     <li><b>Reverse Engineering</b></li>
@@ -12,7 +12,7 @@ a Roblox script hub primarily for the game <a href="https://www.roblox.com/games
 </ul>
 <hr>
 
-<h1> Projects </h1>
+<h1> Projects</h1>
 <ul>
   <li><b><a href="https://github.com/Aureliustics/Python-Turtle-3D-Renderer" target="_blank">Python Turtle 3D Renderer</a></b></li>
   <li><b><a href="https://github.com/Aureliustics/DeepwokenServerSniper" target="_blank">Deepwoken Server Sniper</a></b></li>
@@ -21,7 +21,7 @@ a Roblox script hub primarily for the game <a href="https://www.roblox.com/games
   <li><b><a href="https://github.com/Aureliustics/CodeHS-Encryption" target="_blank">CodeHS Encryption</a></b></li>
 </ul>
 
-<h1>Currently Learning:</h1>
+<h1>Currently Learning</h1>
 <ul>
     <li><b>Reverse Engineering Techniques</b> (Learning more about assembly, building familiarity with disassemblers such as IDA and debuggers like x64dbg, unpacking malware, obfuscation methods)</li>
     <li><b>Software Development</b> (familiar with: Python, Javascript, C++, Lua)</li>
