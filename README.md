@@ -24,7 +24,7 @@ a Roblox script hub primarily for the game <a href="https://www.roblox.com/games
 <h1>Currently Learning</h1>
 <ul>
     <li><b>Reverse Engineering Techniques</b> (Learning more about assembly, building familiarity with disassemblers such as IDA and debuggers like x64dbg, unpacking malware, obfuscation methods)</li>
-    <li><b>Software Development</b> (familiar with: Python, Javascript, C++, Lua)</li>
+    <li><b>Software Development</b> (familiar with: Python, Javascript, C++, Lua, learning x86 assembly and C)</li>
     <li><b>Cybersecurity</b> (Cryptography, vulnerabilities and exploits, malware, pentesting, reverse engineering)</li>
 </ul>
 
