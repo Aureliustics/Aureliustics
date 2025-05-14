@@ -12,15 +12,6 @@ a Roblox script hub primarily for the game <a href="https://www.roblox.com/games
     <li><b>Cheat Software</b></li>
 </ul>
 
-<h1> Projects</h1>
-<ul>
-  <li><b><a href="https://github.com/Aureliustics/Python-Turtle-3D-Renderer" target="_blank">Python Turtle 3D Renderer</a></b></li>
-  <li><b><a href="https://github.com/Aureliustics/DeepwokenServerSniper" target="_blank">Deepwoken Server Sniper</a></b></li>
-  <li><b><a href="https://github.com/Aureliustics/JPP-Programming-Language" target="_blank">J++ Programming Language</a></b></li>
-  <li><b><a href="https://github.com/Aureliustics/CodeHS-Plus" target="_blank">CodeHS+</a></b></li>
-  <li><b><a href="https://github.com/Aureliustics/CodeHS-Encryption" target="_blank">CodeHS Encryption</a></b></li>
-</ul>
-
 <h1>Currently Learning</h1>
 <ul>
     <li><b>Reverse Engineering Techniques</b> (Learning more about assembly, building familiarity with disassemblers such as IDA and debuggers like x64dbg, unpacking malware, deobfuscation methods)</li>
